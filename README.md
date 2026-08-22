@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌌 COSMICSEAFOX
+#  COSMICSEAFOX
 
 ### `Exploring the digital cosmos.`
 
@@ -26,23 +26,23 @@ This profile is a collection of projects, experiments, and things I've built alo
 
 <div align="center">
 
-### 🖤 [Black Opal](https://github.com/CosmicSeaFox/Geode-Black-Opal)
+###  [Black Opal](https://github.com/CosmicSeaFox/Geode-Black-Opal)
 
 A dark Obsidian experience inspired by the depth and texture of black opal.
 
-### 🌌 [Celestial Abyss](https://github.com/CosmicSeaFox/Celestial-Abyss)
+###  [Celestial Abyss](https://github.com/CosmicSeaFox/Celestial-Abyss)
 
 A cosmic-inspired Obsidian theme built around deep darkness and celestial atmosphere.
 
-### 🟡 [Forgotten Golden Sanctuary](https://github.com/CosmicSeaFox/Forgotten-Golden-Sanctuary)
+###  [Forgotten Golden Sanctuary](https://github.com/CosmicSeaFox/Forgotten-Golden-Sanctuary)
 
 A warm and atmospheric Obsidian theme with a golden aesthetic.
 
-### 🔥 [Volcanic Vein Lava](https://github.com/CosmicSeaFox/Volcanic-Vein-Lava)
+###  [Volcanic Vein Lava](https://github.com/CosmicSeaFox/Volcanic-Vein-Lava)
 
 A dark theme inspired by volcanic rock and glowing lava.
 
-### 🗃️ [Vault Sweep](https://github.com/CosmicSeaFox/vault-sweep)
+###  [Vault Sweep](https://github.com/CosmicSeaFox/vault-sweep)
 
 A utility for keeping an Obsidian vault organized.
 
@@ -63,13 +63,13 @@ Obsidian
 
 ---
 
-## 📊 COSMIC SIGNAL
+## COSMIC SIGNAL
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CosmicSeaFox&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=CosmicSeaFox&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CosmicSeaFox&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CosmicSeaFox&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 
 </div>
 
