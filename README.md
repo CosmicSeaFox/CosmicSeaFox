@@ -87,7 +87,7 @@ Obsidian
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/CosmicSeaFox/CosmicSeaFox/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
+<img src="https://raw.githubusercontent.com/CosmicSeaFox/CosmicSeaFox/gh-pages/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
 
 </div>
 
