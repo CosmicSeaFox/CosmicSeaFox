@@ -61,3 +61,38 @@ OBSIDIAN
    ├── Customization
    ├── Digital Tools
    └── Experiments
+```
+
+---
+
+## 📊 COSMIC SIGNAL
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CosmicSeaFox&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+
+</div>
+
+---
+
+## 🐍 CONTRIBUTION TRAIL
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/CosmicSeaFox/CosmicSeaFox/gh-pages/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution trail" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ✦
+
+`CREATE` · `EXPLORE` · `REFINE`
+
+🌌
+
+<sub>CosmicSeaFox · 2026</sub>
+
+</div>
