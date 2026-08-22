@@ -6,7 +6,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020817,45:082f66,75:0369a1,100:020617&height=230&section=header&text=COSMICSEAFOX&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Exploring%20the%20digital%20cosmos&descAlignY=58&descSize=18" width="100%"/>
 
-✦　·　✧　·　🌌　·　✧　·　✦
+✦ · ✧ · 🌌 · ✧ · ✦
 
 </div>
 
@@ -73,6 +73,8 @@ Obsidian
 
 </div>
 
+<br>
+
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=CosmicSeaFox&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
@@ -85,23 +87,19 @@ Obsidian
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/CosmicSeaFox/CosmicSeaFox/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
+<img src="https://raw.githubusercontent.com/CosmicSeaFox/CosmicSeaFox/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
 
 </div>
 
 ---
 
-## ✦
-
 <div align="center">
 
-`CREATE`　·　`EXPLORE`　·　`REFINE`
+### ✦
 
-<br>
+`CREATE` · `EXPLORE` · `REFINE`
 
 🌌
-
-<br>
 
 <sub>CosmicSeaFox · 2026</sub>
 
