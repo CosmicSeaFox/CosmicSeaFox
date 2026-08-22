@@ -1,24 +1,24 @@
 <div align="center">
 
-# 🌌 CosmicSeaFox
+# 🌌 COSMICSEAFOX
 
 ### `Exploring the digital cosmos.`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1026,50:24104f,100:050509&height=220&section=header&text=CosmicSeaFox&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Exploring%20the%20digital%20cosmos&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020817,45:082f66,75:0369a1,100:020617&height=230&section=header&text=COSMICSEAFOX&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Exploring%20the%20digital%20cosmos&descAlignY=58&descSize=18" width="100%"/>
+
+✦　·　✧　·　🌌　·　✧　·　✦
 
 </div>
 
 ---
 
-<div align="center">
+## ✦ ABOUT
 
-### ✦ ABOUT
+Welcome to my corner of the digital cosmos.
 
-Creating digital spaces, themes, tools, and experiments.
+I create and experiment with **Obsidian themes, tools, customization, and digital spaces**.
 
-My corner of GitHub is a collection of things built around **Obsidian, customization, visual design, and curiosity**.
-
-</div>
+This profile is a collection of projects, experiments, and things I've built along the way.
 
 ---
 
@@ -26,29 +26,52 @@ My corner of GitHub is a collection of things built around **Obsidian, customiza
 
 <div align="center">
 
-| 🌑 Project | ✦ Description |
-|:---:|:---|
-| **[Black Opal](https://github.com/CosmicSeaFox/Geode-Black-Opal)** | A dark Obsidian experience inspired by black opal. |
-| **[Celestial Abyss](https://github.com/CosmicSeaFox/Celestial-Abyss)** | A cosmic-inspired Obsidian theme. |
-| **[Forgotten Golden Sanctuary](https://github.com/CosmicSeaFox/Forgotten-Golden-Sanctuary)** | A warm, atmospheric Obsidian theme. |
-| **[Volcanic Vein Lava](https://github.com/CosmicSeaFox/Volcanic-Vein-Lava)** | A volcanic-inspired dark theme. |
-| **[Vault Sweep](https://github.com/CosmicSeaFox/vault-sweep)** | A utility for keeping digital vaults organized. |
+### 🖤 [Black Opal](https://github.com/CosmicSeaFox/Geode-Black-Opal)
+
+A dark Obsidian experience inspired by the depth and texture of black opal.
+
+### 🌌 [Celestial Abyss](https://github.com/CosmicSeaFox/Celestial-Abyss)
+
+A cosmic-inspired Obsidian theme built around deep darkness and celestial atmosphere.
+
+### 🟡 [Forgotten Golden Sanctuary](https://github.com/CosmicSeaFox/Forgotten-Golden-Sanctuary)
+
+A warm and atmospheric Obsidian theme with a golden aesthetic.
+
+### 🔥 [Volcanic Vein Lava](https://github.com/CosmicSeaFox/Volcanic-Vein-Lava)
+
+A dark theme inspired by volcanic rock and glowing lava.
+
+### 🗃️ [Vault Sweep](https://github.com/CosmicSeaFox/vault-sweep)
+
+A utility for keeping an Obsidian vault organized.
 
 </div>
 
 ---
-
-<div align="center">
 
 ## ☄ CURRENT ORBIT
 
-`Obsidian` · `Themes` · `Tools` · `Customization` · `Experimentation`
-
-</div>
+```text
+Obsidian
+   │
+   ├── Themes
+   ├── Customization
+   ├── Digital Tools
+   └── Experiments
+```
 
 ---
 
-## ◉ GITHUB ACTIVITY
+## 📊 COSMIC SIGNAL
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=CosmicSeaFox&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CosmicSeaFox&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
 
 <div align="center">
 
@@ -58,37 +81,27 @@ My corner of GitHub is a collection of things built around **Obsidian, customiza
 
 ---
 
-## 📊 COSMIC SIGNAL
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=CosmicSeaFox&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CosmicSeaFox&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## 🐍 CONTRIBUTION TRAIL
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/CosmicSeaFox/CosmicSeaFox/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation"/>
+<img src="https://raw.githubusercontent.com/CosmicSeaFox/CosmicSeaFox/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
 
 </div>
 
 ---
 
+## ✦
+
 <div align="center">
 
-### ✦
+`CREATE`　·　`EXPLORE`　·　`REFINE`
 
-`Create · Explore · Refine`
+<br>
 
-### 🌌
+🌌
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050509,50:24104f,100:0b1026&height=120&section=footer" width="100%"/>
+<br>
 
 <sub>CosmicSeaFox · 2026</sub>
 
