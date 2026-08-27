@@ -74,11 +74,21 @@ A small utility for keeping an Obsidian vault clean and organized.
 
 <div align="center">
 
-`Obsidian` · `Markdown` · `Git` · `GitHub`
+### 🌌 Knowledge
 
-`Claude Code` · `Codex` · `OpenCode`
+`Obsidian` · `Markdown` · `PKM` · `Knowledge Systems`
 
-`AI` · `Automation` · `Customization`
+### 🤖 AI & Automation
+
+`Claude Code` · `Codex` · `OpenCode` · `AI` · `Automation`
+
+### 💻 Development
+
+`Git` · `GitHub` · `Python` · `JavaScript`
+
+### 🎨 Creative
+
+`CSS` · `Obsidian Themes` · `Customization` · `UI`
 
 </div>
 
@@ -91,18 +101,34 @@ Not everything needs to become a serious project.
 Sometimes I build things simply because **“what if?”** is a good enough reason.
 
 ```text
-Idea
- ↓
-Experiment
- ↓
-Break Something
- ↓
-Fix It
- ↓
-Make It Better
- ↓
-Ship
+        IDEA
+          ↓
+     EXPERIMENT
+          ↓
+    BREAK SOMETHING
+          ↓
+        FIX IT
+          ↓
+      REFINE IT
+          ↓
+        SHIP IT
 ```
+
+---
+
+## 🪐 TECH ORBIT
+
+<div align="center">
+
+🌌 **Obsidian**　·　🤖 **AI**　·　⚙️ **Automation**
+
+ 
+
+`Themes`　`Plugins`　`Markdown`　`Git`　`Python`　`JavaScript`
+
+✦ ───────────────────────── ✦
+
+</div>
 
 ---
 
@@ -110,7 +136,14 @@ Ship
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CosmicSeaFox&show_icons=true&hide_border=true&bg_color=020617&title_color=38bdf8&text_color=e2e8f0&icon_color=0ea5e9" width="90%" />
+```text
+Projects       →  Building
+Experiments    →  Exploring
+Ideas          →  Growing
+Repositories   →  Evolving
+```
+
+✦ · ✧ · 🌌 · ✧ · ✦
 
 </div>
 
