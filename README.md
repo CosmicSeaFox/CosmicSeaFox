@@ -1,6 +1,5 @@
 #  About Me
-It starts with a curious thought, takes an unexpected turn, and somehow becomes something real and worth keeping. I just like seeing how far an idea can go once I decide to build it.
-
+It starts with a curious thought, takes an unexpected turn, and somehow becomes something real and worth keeping. I like seeing how far an idea can go once I decide to build it. Somewhere along the way, I usually learn something new and find out where it takes me.
 
 # Tech Stack
 
