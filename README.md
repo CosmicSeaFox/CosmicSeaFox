@@ -1,4 +1,4 @@
-# 💫 About Me
+#  About Me
 
 Curious by nature, I enjoy turning random ideas into real things. I vibe-code, experiment with AI, build useful little tools, and explore digital spaces. Always learning, always tinkering, always wondering “what if?”
 
@@ -58,8 +58,5 @@ If you like what I build, you can support my work:
 
 <div align="center">
 
-`CREATE` · `EXPLORE` · `VIBE`
-
-🌌
 
 </div>
