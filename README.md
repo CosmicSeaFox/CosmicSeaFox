@@ -1,6 +1,5 @@
 #  About Me
-
-No grand plan. Just curious thoughts, questionable ideas, and a habit of turning them into things worth keeping.
+It starts with a curious thought, takes an unexpected turn, and somehow becomes something real and worth keeping. I just like seeing how far an idea can go once I decide to build it.
 
 
 # Tech Stack
