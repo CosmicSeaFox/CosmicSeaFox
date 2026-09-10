@@ -1,9 +1,9 @@
 #  About Me
 
-Curious by nature, I enjoy turning random ideas into real things. I vibe-code, experiment with AI, build useful little tools, and explore digital spaces. Always learning, always tinkering, always wondering “what if?”
+No grand plan. Just curious thoughts, questionable ideas, and a habit of turning them into things worth keeping.
 
 
-# 💻 Tech Stack
+# Tech Stack
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
@@ -14,7 +14,7 @@ Curious by nature, I enjoy turning random ideas into real things. I vibe-code, e
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=CosmicSeaFox&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 
@@ -23,7 +23,7 @@ Curious by nature, I enjoy turning random ideas into real things. I vibe-code, e
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=CosmicSeaFox&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-# 🐍 Contribution Trail
+# Contribution Trail
 
 <div align="center">
 
@@ -32,12 +32,12 @@ Curious by nature, I enjoy turning random ideas into real things. I vibe-code, e
 </div>
 
 
-# 🏆 GitHub Trophies
+# GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=CosmicSeaFox&theme=dark&no-frame=true&no-bg=false&margin-w=4)
 
 
-# 👀 Visitors
+# Visitors
 
 <div align="center">
 
@@ -46,7 +46,7 @@ Curious by nature, I enjoy turning random ideas into real things. I vibe-code, e
 </div>
 
 
-# 💰 Support
+# Support
 
 If you like what I build, you can support my work:
 
